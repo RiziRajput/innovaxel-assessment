@@ -45,6 +45,7 @@ A full-stack URL shortening application built with the **MERN stack** (MongoDB, 
 - npm run dev
 - Server will run at: http://localhost:5000
 
+---
 ## 3. Frontend Setup
  
 - cd frontend
